@@ -2,6 +2,10 @@
 
 This is my CV Project I used it to practice and created the below project.
 
+Summary:
+Developed AWS-based Jenkins CI/CD pipeline integrating SonarQube, Docker, and GitHub webhooks, automating software development, and ensuring code quality.
+
+
 Embarking on this exciting project, I will skillfully orchestrate the setup of a dynamic Jenkins CI/CD pipeline, seamlessly weaving together the powers of Github, Sonarqube, and Docker on a robust AWS EC2 instance.
 
 Guided by Jenkins, a versatile open-source automation server, I will navigate through the intricacies of automating vital software development tasks – from smooth builds and rigorous testing to effortless deployments. Github will stand as my collaborative haven, providing an agile code repository and a platform for seamless teamwork. In parallel, Sonarqube, my code quality sentinel, will meticulously scrutinize and elevate the caliber of my codebase. As the curtains draw close, Docker's innovative containerization prowess will shine, simplifying the deployment of my software applications.
